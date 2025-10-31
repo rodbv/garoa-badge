@@ -30,14 +30,23 @@ Implementação da animação do logo DVD, adaptada para dispositivos com MicroP
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/garoa-badge-experiments.git
+git clone https://github.com/rodbv/garoa-badge.git
 ```
 
 2. Instale as ferramentas necessárias:
    - Firmware MicroPython em sua placa
-   - Ferramenta para upload de arquivos (ex: ampy, mpexplore ou Thonny IDE)
+   - [Thonny IDE](https://thonny.org/) (recomendado para iniciantes)
+   - Ou outras ferramentas como ampy, mpexplore
 
-3. Faça o upload dos arquivos para sua placa
+3. Para copiar os arquivos usando Thonny:
+   - Instale e abra o Thonny
+   - No menu View, ative "Files"
+   - Em Tools > Options > Interpreter, selecione "MicroPython (ESP32)"
+   - Selecione a porta serial correta
+   - No painel de arquivos à direita, você verá os arquivos da placa
+   - Arraste os arquivos do seu computador para a placa ou use o botão "Upload"
+   
+   Para um guia detalhado com screenshots, veja [Getting Started with Thonny MicroPython](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/)
 
 ### Para o experimento DVD Screensaver:
 - `main.py`
