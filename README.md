@@ -2,7 +2,7 @@
 
 Coleção de experimentos e scripts para o [Garoa Badge](https://garoa.net.br/wiki/Badge#REV._0). 
 
-Grande parte do código foi inspirada no trabalho de [Juliana Karoline](https://github.com/julianaklulo/garoa-badge).
+Grande parte do código foi inspirada no repositório de [Juliana Karoline](https://github.com/julianaklulo/garoa-badge).
 
 ## Sobre o Garoa Badge
 
